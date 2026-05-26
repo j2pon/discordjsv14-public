@@ -1,0 +1,141 @@
+﻿
+ServerTag:
+  - Sunucunun tagı.
+
+ServerUntagged:
+  - Sunucunun ikinci tagı. (Kullanıcının isminde tagolmaması durumunda devreye giren bir yedek etikettir.)
+
+ServerVanityURL:
+  - Sunucunun URL'si.
+
+LiveSupport:
+  - Canlı destek kanalı ID'si.
+
+YetkiliAlimDM:
+  - Yetkili alım DM'yi gönderecek kullanıcı ID'si.
+
+OwnerRoles:
+  - Sunucu sahiplerinin rol ID'leri.
+
+ManagmentRoles:
+  - Yönetim rol ID'leri.
+
+StaffManagmentRoles:
+  - Deneme yetkilisi rol ID'leri.
+
+ProblemSolversRoles:
+  - Destek sorumlusu rol ID'leri.
+
+Authorities:
+  - Yetkililer.
+
+StartAuthority:
+  - Başlangıç yetkilisi rol ID'si.
+
+BanHammer:
+  - Banlama yetkisi olan rol ID'si.
+
+JailHammer:
+  - Cezaevi yetkisi olan rol ID'si.
+
+CMuteHammer:
+  - Chat mute yetkisi olan rol ID'si.
+
+VMuteHammer:
+  - Voice mute yetkisi olan rol ID'si.
+
+WarnHammer:
+  - Uyarı verme yetkisi olan rol ID'si.
+
+SuspectedRoles:
+  - Şüpheli rol ID'si.
+
+ForbiddenTagRoles:
+  - Yasaklı etiket rol ID'leri.
+
+JailedRoles:
+  - Ceza almış rol ID'si.
+
+MutedRole:
+  - Mute (susturma) rol ID'si.
+
+VMutedRole:
+  - Voice mute (sesli susturma) rol ID'si.
+
+ManRoles:
+  - Erkek kullanıcı rol ID'si.
+
+GirlRoles:
+  - Kız kullanıcı rol ID'si.
+
+UnRegisteredRoles:
+  - Kaydını yapmamış kullanıcı rol ID'si.
+
+ConfirmerRoles:
+  - Onaylama yetkisi olan rol ID'si.
+
+RolePanelRoles:
+  - Rol paneli yetkisi olan rol ID'si.
+
+TaggedRole:
+  - Taglı Üye rolü ID'si.
+
+BoosterRole:
+  - Sunucu boost yapan rol ID'si.
+
+MazeretRole:
+  - Toplantıya mazereti olduğu için katılmayan yetkililere verilen rol ID'si.
+
+JoinedRole:
+  - Toplantıya katılan yetkililere verilecek rol ID'si.
+
+VipRole:
+  - VIP rol ID'si.
+
+BasvuruLogChannel:
+  - Yetkili Başvuruların düşeceği log kanalı ID'si.
+
+IstekOneriSikayetLogChannel:
+  - İstek, öneri, şikayetlerin düşeceği log kanalı ID'si.
+
+WelcomeChannel:
+  - Karşılama kanalı ID'si.
+
+InviteChannel:
+  - Davet kanalı ID'si.
+
+ChatChannel:
+  - Sohbet kanalı ID'si.
+
+RulesChannel:
+  - Kurallar kanalı ID'si.
+
+MeetingChannel:
+  - Toplantı kanalı ID'si.
+
+SleepRoomChannel:
+  - Uyuma odası kanalı ID'si.
+
+TroubleshootingCategory:
+  - Hata çözümü kategorisi ID'si.
+
+RegisterRoomCategory:
+  - Kayıt odası kategorisi ID'si.
+
+PublicRoomsCategory:
+  - Herkese açık ses odaları kategorisi ID'si.
+
+PrivateRoomsCategory:
+  - Özel ses odaları kategorisi ID'si.
+
+SecretRoomsCategory:
+  - Gizli ses odaları kategorisi ID'si.
+
+StreamerCategory:
+  - Yayıncı ses kategorisi ID'si.
+
+ActivityCategorys:
+  - Aktivite ses kategorileri ID'si.
+
+
+

@@ -1,0 +1,305 @@
+{
+  "ServerTag": [
+    "ᛪ"
+  ],
+  "ServerUntagged": "•",
+  "ServerVanityURL": "carmenta",
+  "YetkiliAlimDM": "",
+  "OwnerRoles": [
+    "",
+    "",
+    ""
+  ],
+  "ManagmentRoles": [
+    ""
+  ],
+  "StaffManagmentRoles": [
+    ""
+  ],
+  "ProblemSolversRoles": [
+    "",
+    ""
+  ],
+  "StartAuthority": [
+    ""
+  ],
+  "BanHammer": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "JailHammer": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "CMuteHammer": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "VMuteHammer": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "WarnHammer": [
+    ""
+  ],
+  "SuspectedRoles": [
+    ""
+  ],
+  "ForbiddenTagRoles": [
+    ""
+  ],
+  "ForbiddenTagConfig": {
+    "caseSensitive": false,
+    "checkUsername": true,
+    "checkDisplayName": true,
+    "checkNickname": true,
+    "logKanalId": ""
+  },
+  "JailedRoles": [
+    ""
+  ],
+  "MutedRole": [
+    ""
+  ],
+  "VMutedRole": [
+    ""
+  ],
+  "ManRoles": [
+    "",
+    ""
+  ],
+  "GirlRoles": [
+    "",
+    ""
+  ],
+  "UnRegisteredRoles": [
+    ""
+  ],
+  "ConfirmerRoles": [
+    ""
+  ],
+  "RolePanelRoles": [
+    ""
+  ],
+  "SponsorRoles": [
+    ""
+  ],
+  "RolePanelBlacklist": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "AuthRole": "",
+  "TaggedRole": "",
+  "GuildTagLogChannel": "",
+  "UseClanApi": true,
+  "BoosterRole": "",
+  "MazeretRole": "",
+  "JoinedRole": "",
+  "VipRole": "",
+  "StreamerRole": "",
+  "StreamerResponsible": "",
+  "StreamerController": "",
+  "BasvuruLogChannel": "",
+  "IstekOneriSikayetLogChannel": "",
+  "SorunCozmeLogChannel": "",
+  "OryantasyonLogChannel": "",
+  "ItirazLogChannel": "",
+  "AutoBackupLogChannel": "",
+  "GuardChannelRestoreLogChannel": "",
+  "GuardRoleCategoryRestoreLogChannel": "",
+  "TweetPanelChannel": "",
+  "WelcomeChannel": "",
+  "InviteChannel": "",
+  "ChatChannel": "",
+  "RulesChannel": "",
+  "BotCommandsChannel": "",
+  "ShipChatChannel": "",
+  "Oryantasyondurum": "",
+  "YetkiBirakanlarlog": "",
+  "MeetingChannel": [
+    ""
+  ],
+  "SleepRoomChannel": [
+    ""
+  ],
+  "TroubleshootingCategory": [
+    ""
+  ],
+  "RegisterRoomCategory": [
+    ""
+  ],
+  "PublicRoomsCategory": "",
+  "PrivateRoomsCategory": [
+    ""
+  ],
+  "SecretRoomsCategory": [
+    ""
+  ],
+  "StreamerCategory": [
+    ""
+  ],
+  "ActivityCategorys": [
+    ""
+  ],
+  "LocaCategory": [
+    ""
+  ],
+  "Sorumluluk": {
+    "LogKanal": "",
+    "OnayKanal": "",
+    "YetkiSeviyeleri": {
+      "AltYetki": {
+        "Roller": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "GerekliSorumluluk": 1
+      },
+      "OrtaYetki": {
+        "Roller": [
+          "",
+          "",
+          "",
+          ""
+        ],
+        "GerekliSorumluluk": 2
+      },
+      "UstYetki": {
+        "Roller": [
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "GerekliSorumluluk": 3
+      }
+    },
+    "StaffRoles": {
+      "public": {
+        "responsible": "",
+        "leader": ""
+      },
+      "streamer": {
+        "responsible": "",
+        "leader": ""
+      },
+      "register": {
+        "responsible": "",
+        "leader": ""
+      },
+      "yetkili": {
+        "responsible": "",
+        "leader": ""
+      },
+      "rehberlik": {
+        "responsible": "",
+        "leader": ""
+      },
+      "sorunCozucu": {
+        "responsible": "",
+        "leader": ""
+      },
+      "etkinlik": {
+        "responsible": "",
+        "leader": ""
+      }
+    }
+  },
+  "MenuRoles": {
+    "etkinlik": "",
+    "cekilis": "",
+    "oyun": {
+      "lol": "",
+      "csgo": "",
+      "minecraft": "",
+      "valorant": "",
+      "fortnite": "",
+      "gta": "",
+      "pubg": "",
+      "mlbb": "",
+      "fivem": ""
+    },
+    "iliski": {
+      "couple": "",
+      "alone": ""
+    }
+  },
+  "ColorRoles": {
+    "siyah": "",
+    "beyaz": "",
+    "kirmizi": "",
+    "mavi": "",
+    "yesil": "",
+    "kahverengi": "",
+    "mor": "",
+    "pembe": ""
+  },
+  "PromotionRoles": {
+    "AltYetki": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "OrtaYetki": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "UstYetki": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+}
